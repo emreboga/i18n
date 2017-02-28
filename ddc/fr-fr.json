@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ucp.topnav.dashboard",
+    "description": "Dashboard link in the top header.",
+    "value": "Tableau de bord"
+  },
+  {
+    "id": "ucp.topnav.resources",
+    "description": "Resources link in the top header.",
+    "value": "Ressources"
+  },
+  {
+    "id": "ucp.topnav.usermanagement",
+    "description": "User Management link in the top header.",
+    "value": "Gestion des utilisateurs"
+  },
+  {
+    "id": "ucp.topnav.adminsettings",
+    "description": "Admin Settings link in the top header.",
+    "value": "Paramètres d’administration"
+  },
+  {
+    "id": "ucp.topnav.usermenu.profile",
+    "description": "Label of the Profile menu item in the user menu item.",
+    "value": "Profil"
+  },
+  {
+    "id": "ucp.topnav.usermenu.logout",
+    "description": "Label of the Logout menu item in the user menu item.",
+    "value": "Déconnexion"
+  }
+]

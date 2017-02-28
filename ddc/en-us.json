@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ucp.topnav.dashboard",
+    "description": "Dashboard link in the top header.",
+    "value": "Dashboard"
+  },
+  {
+    "id": "ucp.topnav.resources",
+    "description": "Resources link in the top header.",
+    "value": "Resources"
+  },
+  {
+    "id": "ucp.topnav.usermanagement",
+    "description": "User Management link in the top header.",
+    "value": "User Management"
+  },
+  {
+    "id": "ucp.topnav.adminsettings",
+    "description": "Admin Settings link in the top header.",
+    "value": "Admin Settings"
+  },
+  {
+    "id": "ucp.topnav.usermenu.profile",
+    "description": "Label of the Profile menu item in the user menu item.",
+    "value": "Profile"
+  },
+  {
+    "id": "ucp.topnav.usermenu.logout",
+    "description": "Label of the Logout menu item in the user menu item.",
+    "value": "Logout"
+  }
+]
